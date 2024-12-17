@@ -41,7 +41,7 @@ Check out some of the projects I've worked on:
 
 ## 💬 Let's Connect
 
-- 📧 Email: [iqra.zahid@example.com](mailto:iqra.zahid83@gmail.com)
+- 📧 Email: [iqra.zahid@gmail.com](mailto:iqra.zahid83@gmail.com)
 - 🔗 LinkedIn: [Iqra Zahid](https://www.linkedin.com/in/iqrazahid)
 - 🌐 Website: [iqrazahid.dev](https://iqrazahid.dev)
 - 🐦 Twitter: [@iqrazahid](https://twitter.com/iqrazahid)

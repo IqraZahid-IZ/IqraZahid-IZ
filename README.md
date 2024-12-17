@@ -10,24 +10,41 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a b
 - 💡 Passionate about creating scalable and efficient web applications.
 - 📚 Completed courses in **PHP** and **Python** to enhance my backend development skills.
 
+## 🔧 Basic Knowlwdge of
+
+- Net Beans
+- Prezi
+- Prolog
+- Eclipse IDE
+- C#
+- Mat Lab
+- Asp.net
+- Winlogi Lab
+- FileZilla
+- Glut (OpenGL Utility Toolkit)
+- WinSCP
+- SPSS17
+- Ado.net
+- Oracle
+- Xampp
+- Adobe Dreamweaver CC
+- Android SDK
+
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies I work with:
 
 - **Frontend**: 
-  - HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
+  - HTML, CSS, JavaScript
 - **Backend**: 
-  - PHP, Python (Django, Flask), Node.js, Express.js
+  - PHP, Python 
 - **Databases**: 
-  - MySQL, MongoDB, PostgreSQL
+  - MySQL
 - **Version Control**: 
   - Git, GitHub
 - **Tools**: 
-  - VS Code, Figma, Postman, Docker, Nginx
+  - VS Code
 
-## 📈 My Stats
-
-![Iqra Zahid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqrazahid&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 🚀 My Projects
 
@@ -44,7 +61,6 @@ Check out some of the projects I've worked on:
 - 📧 Email: [iqra.zahid@gmail.com](mailto:iqra.zahid83@gmail.com)
 - 🔗 LinkedIn: [Iqra Zahid](https://www.linkedin.com/in/iqrazahid)
 - 🌐 Website: [iqrazahid.dev](https://iqrazahid.dev)
-- 🐦 Twitter: [@iqrazahid](https://twitter.com/iqrazahid)
 
 ## 🌟 Fun Facts
 

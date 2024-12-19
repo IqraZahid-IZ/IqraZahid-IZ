@@ -10,25 +10,10 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a b
 - 💡 Passionate about creating scalable and efficient web applications.
 - 📚 Completed courses in **PHP** and **Python** to enhance my backend development skills.
 
-## 🔧 Basic Knowlwdge of
+## 🔧 Basic Knowledge of
 
-- Net Beans
-- Prezi
-- Prolog
-- Eclipse IDE
-- C#
-- Mat Lab
-- Asp.net
-- Winlogi Lab
-- FileZilla
-- Glut (OpenGL Utility Toolkit)
-- WinSCP
-- SPSS17
-- Ado.net
-- Oracle
-- Xampp
-- Adobe Dreamweaver CC
-- Android SDK
+- Net Beans, Prezi, Prolog, Eclipse IDE, C#, Mat Lab, Asp.net, Winlogi Lab, FileZilla, Glut (OpenGL Utility Toolkit), WinSCP, SPSS17, Ado.net, Oracle, Xampp,
+  Adobe Dreamweaver CC, Android SDK
 
 ## 🔧 Technologies & Tools
 
